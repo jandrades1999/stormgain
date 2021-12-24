@@ -1,0 +1,616 @@
+1640095388302	geckodriver	INFO	Listening on 127.0.0.1:57539
+1640095391371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57540" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofilecAyd64"
+1640095391596	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofilecAyd64\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57540/devtools/browser/6056e35c-af2b-4304-9479-92a52a794cc7
+1640095393319	Marionette	INFO	Listening on port 57545
+1640095393419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640095532436	Marionette	INFO	Stopped listening on port 57545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640095685531	geckodriver	INFO	Listening on 127.0.0.1:55928
+1640095688608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55929" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileJcTnr6"
+1640095688820	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileJcTnr6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55929/devtools/browser/c33c6953-8592-4c6d-a8dc-14ce0ec2b4c6
+1640095690557	Marionette	INFO	Listening on port 51138
+1640095690655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 1972, MediaDecoderStateMachine #1] WARNING: 1c65a741200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640095696937	Marionette	INFO	Stopped listening on port 51138
+1640097288198	geckodriver	INFO	Listening on 127.0.0.1:58120
+1640097291261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58121" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofile3iXxhl"
+1640097291471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofile3iXxhl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58121/devtools/browser/0fccab62-1a77-464a-a943-d3404d0b3c22
+1640097293192	Marionette	INFO	Listening on port 58127
+1640097293301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 14716, MediaDecoderStateMachine #1] WARNING: 21d33e6d900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14716, MediaDecoderStateMachine #1] WARNING: 21d2fa8af20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14716, MediaDecoderStateMachine #1] WARNING: 21d31371040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14716, MediaDecoderStateMachine #1] WARNING: 21d31371040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14716, MediaDecoderStateMachine #1] WARNING: 21d31371040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14716, MediaDecoderStateMachine #1] WARNING: 21d31371040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14716, MediaDecoderStateMachine #1] WARNING: 21d31371040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640097468664	Marionette	INFO	Stopped listening on port 58127
+JavaScript error: https://js-cdn.dynatrace.com/jstag/1700f2c78c0/bf46572nqv/52ffa648668fa75f_complete.js, line 20: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 4020, MediaDecoderStateMachine #1] WARNING: 277c2a3f040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640097438834	Marionette	INFO	Stopped listening on port 54029
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640097496531	geckodriver	INFO	Listening on 127.0.0.1:54242
+1640097499620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54243" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileE1X6hU"
+1640097499850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileE1X6hU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54243/devtools/browser/f4e01bd0-adf7-4d25-9548-6f66e7003cfa
+1640097501608	Marionette	INFO	Listening on port 54249
+1640097501683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fc7bcba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a24a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f9b71ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f9b71ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f9b71ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f9b71ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f9b71ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fb196900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fb196900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fb196120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a24a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f9b71040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f9b71040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f9b71040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f9b71040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f9b71040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f9b71040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a24a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a24a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a24a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a24a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f1930e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266fa5a2820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14832, MediaDecoderStateMachine #1] WARNING: 266f818a040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640101691957	Marionette	INFO	Stopped listening on port 54249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+dom/media/AudioStream.cpp:367
+[Child 15336, MediaDecoderStateMachine #1] WARNING: 2aeb088a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15336, MediaDecoderStateMachine #1] WARNING: 2aeb088a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15336, MediaDecoderStateMachine #1] WARNING: 2aeb088a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15336, MediaDecoderStateMachine #1] WARNING: 2aeb088a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640101690623	Marionette	INFO	Stopped listening on port 54486
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1640102427760	geckodriver	INFO	Listening on 127.0.0.1:59369
+1640102430837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59370" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileelENXu"
+1640102431081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileelENXu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59370/devtools/browser/62a29615-81eb-452c-bf20-ddab4c6d0d0a
+1640102432807	Marionette	INFO	Listening on port 59375
+1640102432884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640102441850	Marionette	INFO	Stopped listening on port 59375
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640102828572	geckodriver	INFO	Listening on 127.0.0.1:55492
+1640102831627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55493" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofilezkGR5F"
+1640102831946	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofilezkGR5F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55493/devtools/browser/cf846261-8045-46cb-a046-0f6c5dd404e0
+1640102833818	Marionette	INFO	Listening on port 55499
+1640102834302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640102865202	Marionette	INFO	Stopped listening on port 55499
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55579" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileS68YH1"
+1640102865236	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileS68YH1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55579/devtools/browser/153ca56f-270a-4252-bbcf-e38e7173f874
+1640102867110	Marionette	INFO	Listening on port 55584
+1640102867136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640102902152	Marionette	INFO	Stopped listening on port 55584
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640104233703	geckodriver	INFO	Listening on 127.0.0.1:52144
+1640104236780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52145" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileipFOrB"
+1640104236994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileipFOrB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52145/devtools/browser/7f888df8-f07a-494d-9332-67c38d253860
+1640104238677	Marionette	INFO	Listening on port 52152
+1640104238825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 14308, MediaDecoderStateMachine #1] WARNING: 1f362c36820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://app.stormgain.com/global-commons/libs/require/require-2.1.15.min.js?6caee983-3422-41a4-aaba-b5410ecd28a1, line 1: Error: Script error for: long
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://app.stormgain.com/global-commons/libs/require/require-2.1.15.min.js?6caee983-3422-41a4-aaba-b5410ecd28a1, line 1: Error: Script error for: https://cdn.seondf.com/js/v4/agent.js
+http://requirejs.org/docs/errors.html#scripterror
+[Child 14308, MediaDecoderStateMachine #1] WARNING: 1f364d962e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 252: TypeError: grip is undefined
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 252: TypeError: grip is undefined
+[Child 14308, MediaDecoderStateMachine #1] WARNING: 1f364d962e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14308, MediaDecoderStateMachine #1] WARNING: 1f364c4a9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 14308, MediaDecoderStateMachine #1] WARNING: 1f364c4a9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640104352027	Marionette	INFO	Stopped listening on port 52152
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640104369484	geckodriver	INFO	Listening on 127.0.0.1:52368
+1640104372545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52369" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileFRbcDz"
+1640104372760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileFRbcDz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52369/devtools/browser/c82cab3f-61c9-4f6c-a925-2e4fc6068ab7
+1640104374522	Marionette	INFO	Listening on port 52378
+1640104374594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 3308, MediaDecoderStateMachine #1] WARNING: 1bce60124a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.stormgain.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowAcconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppDa[GFX1-]: Failed to get descriptor for recorded texture.
+[GFX1-]: Killing GPU process due to IPC reply timeout
+1640104671901	Marionette	INFO	Stopped listening on port 52378
+[Parent 14924, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:542
+[Parent 14924, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/pro[Child 10176, MediaDecoderStateMachine #1] WARNING: 24bc9d90f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640104692154	Marionette	INFO	Stopped listening on port 50779
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640104693667	geckodriver	INFO	Listening on 127.0.0.1:50911
+1640104696738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50912" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileY2073F"
+1640104696955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileY2073F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50912/devtools/browser/edf19a3d-bf5c-4d3a-b42c-c79a7a35620d
+1640104698750	Marionette	INFO	Listening on port 50919
+1640104698793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 11768, MediaDecoderStateMachine #1] WARNING: 19bf5f344a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11768, MediaDecoderStateMachine #1] WARNING: 19bf66bc040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11768, MediaDecoderStateMachine #1] WARNING: 19bf47899e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11768, MediaDecoderStateMachine #1] WARNING: 19bf6630f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11768, MediaDecoderStateMachine #1] WARNING: 19bf4789e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11768, MediaDecoderStateMachine #1] WARNING: 19bf47899e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.stormgain.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[Child 11768, MediaDecoderStateMachine #1] WARNING: 19bf66bc040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11768, MediaDecoderStateMachine #1] WARNING: 19bf5b381640104889945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, liconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileSSE4Ik\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://loca[GFX1-]: Failed to get descriptor for recorded texture.
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage]JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640104908673	Marionette	INFO	Stopped listening on port 57716
+[Parent 12336, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+1640105145557	geckodriver	INFO	Listening on 127.0.0.1:50448
+1640105148624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50449" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofilebpzlgV"
+1640105148843	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofilebpzlgV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50449/devtools/browser/3632df1f-c70c-4f38-b31b-fb92402993cc
+1640105150544	Marionette	INFO	Listening on port 50457
+1640105150674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 2512, MediaDecoderStateMachine #1] WARNING: 1f52adaa4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640105157677	Marionette	INFO	Stopped listening on port 50457
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640105200705	geckodriver	INFO	Listening on 127.0.0.1:50598
+1640105203784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50599" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileSqWiuV"
+1640105203998	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileSqWiuV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50599/devtools/browser/018e070f-4f0b-4787-8260-7b5542860dcb
+1640105205719	Marionette	INFO	Listening on port 50605
+1640105205826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 320, MediaDecoderStateMachine #1] WARNING: 205e5551040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640105212132	Marionette	INFO	Stopped listening on port 50605
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640105332670	geckodriver	INFO	Listening on 127.0.0.1:50801
+1640105335706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50802" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileoXMxjm"
+1640105335920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileoXMxjm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50802/devtools/browser/8fc4e596-0751-4cac-b4c2-47dc392249e6
+1640105337730	Marionette	INFO	Listening on port 50809
+1640105337751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 9180, MediaDecoderStateMachine #1] WARNING: 1b62b71e900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640105354813	Marionette	INFO	Stopped listening on port 50809
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640107448183	geckodriver	INFO	Listening on 127.0.0.1:54180
+1640107451230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54181" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofilecvTPwQ"
+1640107451442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofilecvTPwQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54181/devtools/browser/69aa285b-6f84-4475-bc19-d97d82eb468a
+1640107453178	Marionette	INFO	Listening on port 54188
+1640107453269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 5424, MediaDecoderStateMachine #1] WARNING: 27cb948f740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640107463000	Marionette	INFO	Stopped listening on port 54188
+[Parent 9756, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640108709383	geckodriver	INFO	Listening on 127.0.0.1:61225
+1640108712429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61226" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileintEz0"
+1640108712659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileintEz0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61226/devtools/browser/b2f138e6-ce01-4101-985b-1240931ebc67
+1640108714429	Marionette	INFO	Listening on port 61233
+1640108714485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 15056, MediaDecoderStateMachine #1] WARNING: 25dc00aad60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640108724490	Marionette	INFO	Stopped listening on port 61233
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640108795114	geckodriver	INFO	Listening on 127.0.0.1:61433
+1640108798156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61434" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofile9oLS7E"
+1640108798388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofile9oLS7E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61434/devtools/browser/ee414e18-de22-47f2-bbec-0cc5b8137121
+1640108800204	Marionette	INFO	Listening on port 61440
+1640108800305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 2796, MediaDecoderStateMachine #1] WARNING: 1e3f3b4bba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640108810311	Marionette	INFO	Stopped listening on port 61440
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640108861003	geckodriver	INFO	Listening on 127.0.0.1:61602
+1640108864066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61603" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileD67Ioj"
+1640108864286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileD67Ioj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61603/devtools/browser/db0068e3-8708-4625-a512-b9e1546a9b5f
+1640108866000	Marionette	INFO	Listening on port 61609
+1640108866088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 10740, MediaDecoderStateMachine #1] WARNING: 1e339645660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640108875429	Marionette	INFO	Stopped listening on port 61609
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640303751434	geckodriver	INFO	Listening on 127.0.0.1:63145
+1640303754494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63146" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileMTvHxB"
+1640303754714	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileMTvHxB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63146/devtools/browser/265cc4aa-47c6-4b2f-a8e7-f1f2dff1143f
+1640303756722	Marionette	INFO	Listening on port 63153
+1640303757159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 16684, MediaDecoderStateMachine #1] WARNING: 1df4e3c74a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2153:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640304474699	Marionette	INFO	Stopped listening on port 63153
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofilehTsVdG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63341/devtools/browser/0511f0ec-1a98-4aa4-b98e-dea2c607725e
+1640303844841	Marionette	INFO	Listening on port 63347
+1640303844929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 13344, MediaDecoderStateMachine #1] WARNING: 215762d9900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1640304477389	Marionette	INFO	Stopped listening on port 63347
+[GFX1-]: Failed to get descriptor for recorded texture.
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[Parent 5960, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:402
+1640304490761	geckodriver	INFO	Listening on 127.0.0.1:64072
+1640304493801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64073" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileTGyTNz"
+1640304494022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileTGyTNz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64073/devtools/browser/24843a7d-1b3f-4a81-843b-f2d0c046583a
+1640304495793	Marionette	INFO	Listening on port 64079
+1640304495839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 13036, MediaDecoderStateMachine #1] WARNING: 198819f6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640304538058	Marionette	INFO	Stopped listening on port 64079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640304541318	geckodriver	INFO	Listening on 127.0.0.1:64239
+1640304544367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64240" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileTn4vnS"
+1640304544585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileTn4vnS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64240/devtools/browser/851f91a0-ba7d-4f4a-b015-2cbf64e8bc9a
+1640304546338	Marionette	INFO	Listening on port 64246
+1640304546406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 17144, MediaDecoderStateMachine #1] WARNING: 155f40649e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640304562480	Marionette	INFO	Stopped listening on port 64246
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640304575828	geckodriver	INFO	Listening on 127.0.0.1:64398
+1640304578885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64399" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileaFDBUN"
+1640304579102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileaFDBUN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64399/devtools/browser/7ef8501f-26b3-4d08-8c87-15e83baf47a5
+1640304580898	Marionette	INFO	Listening on port 64408
+1640304580930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 19104, MediaDecoderStateMachine #1] WARNING: 2a87e4559e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640304626138	Marionette	INFO	Stopped listening on port 64408
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640305686554	geckodriver	INFO	Listening on 127.0.0.1:58189
+1640305689619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58190" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileHH89CN"
+1640305689834	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileHH89CN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58190/devtools/browser/ef1bf674-e323-46ec-9fea-ca5c6d42b50c
+1640305691638	Marionette	INFO	Listening on port 58199
+1640305691675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 15488, MediaDecoderStateMachine #1] WARNING: 24b78347900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640305724545	Marionette	INFO	Stopped listening on port 58199
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640305752465	geckodriver	INFO	Listening on 127.0.0.1:58386
+1640305755526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58387" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileME75w8"
+1640305755758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileME75w8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58387/devtools/browser/bff21e4d-3c69-4c46-bae5-b07c24d31ede
+1640305757494	Marionette	INFO	Listening on port 58400
+1640305757570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 16540, MediaDecoderStateMachine #1] WARNING: 27bbeb513c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640305788319	Marionette	INFO	Stopped listening on port 58400
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640305827425	geckodriver	INFO	Listening on 127.0.0.1:52460
+1640305830478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52461" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofilePNaShQ"
+1640305830695	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofilePNaShQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52461/devtools/browser/9e420521-eca3-4d35-90bc-da262245b6ea
+1640305832435	Marionette	INFO	Listening on port 52470
+1640305832517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 18596, MediaDecoderStateMachine #1] WARNING: 2c8927639e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640305864753	Marionette	INFO	Stopped listening on port 52470
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640305887248	geckodriver	INFO	Listening on 127.0.0.1:54259
+1640305890308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54260" "-no-remote" "-profile" "C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileJJP91i"
+1640305890520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josem\\AppData\\Local\\Temp\\rust_mozprofileJJP91i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54260/devtools/browser/57733444-f830-4fbf-b489-c9ebefaf4b1d
+1640305892253	Marionette	INFO	Listening on port 54267
+1640305892337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 18764, MediaDecoderStateMachine #1] WARNING: 2e464b11120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.8.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640305924979	Marionette	INFO	Stopped listening on port 54267
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
